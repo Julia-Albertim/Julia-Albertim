@@ -5,8 +5,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  👋 Sou uma estudante de <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong>. 🎓 Sou uma aprendiz apaixonada que está sempre disposta a aprender e trabalhar com diversas tecnologias. 💡<br>
-  Adoro explorar novas tecnologias e usá-las para resolver problemas do dia a dia. ✨
+  👋 Sou uma estudante de <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong>. 
+  🎓 Sou uma aprendiz apaixonada que está sempre disposta a aprender e trabalhar com diversas tecnologias. 
+  💡<br> Adoro explorar novas tecnologias e usá-las para resolver problemas do dia a dia. ✨
 </p>
 
 <p align="left">
@@ -14,7 +15,7 @@
 </p>
 
 <p align="left">
-  🎯🎯 Tenho uma base sólida em <strong>HTML</strong> e <strong>CSS</strong>, e além de boa base, uma grande paixão por <strong>Backend</strong> e <strong>processos relacionados a dados</strong>. Estou buscando meu caminho e evolução como <strong>desenvolvedora Full Stack</strong>.
+  🎯 Tenho uma base sólida em <strong>HTML</strong> e <strong>CSS</strong>, e além de boa base, uma grande paixão por <strong>Backend</strong> e <strong>processos relacionados a dados</strong>. Estou buscando meu caminho e evolução como <strong>desenvolvedora Full Stack</strong>.
 <p align="left">
   💌 Como me encontrar: ⤵️
 </p>
