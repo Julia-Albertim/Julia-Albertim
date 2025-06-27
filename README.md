@@ -1,27 +1,38 @@
-# Olá, eu sou a Júlia! 👋👩‍💻
+<p align="left">
+  <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B309FF&width=435&lines=print(%22Hello%2C+world!%22)" alt="Typing SVG" />
+</p>
 
-<img src="github_readme_image.png" alt="Desenvolvedora" width="500"/>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-Sou uma estudante de Análise e Desenvolvimento de Sistemas (ADS) apaixonada por transformar ideias em soluções funcionais. 💡 Minha jornada no mundo da tecnologia é movida pela curiosidade e pelo desejo constante de aprender e evoluir. 📚 Sou uma pessoa extrovertida, focada e adoro um bom desafio! 💪
+<p align="left"> 
+  Olá, eu sou a <strong>Júlia</strong>! 👋 Sou uma estudante de <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong>. 🎓 Sou uma aprendiz apaixonada que está sempre disposta a aprender e trabalhar com diversas tecnologias. 💡<br>
+  Adoro explorar novas tecnologias e usá-las para resolver problemas do dia a dia. ✨
+</p>
 
-## Minhas Habilidades 🚀
+<p align="left">
+  🛠 Atualmente estou codificando com: <strong>Python, HTML, CSS, APIs, Automação, Desenvolvimento de Software e LLM.</strong>
+</p>
 
-- **Dados:** Análise de Dados 📊, ETL 🧹
-- **Linguagens:** Python 🐍, HTML 🌐, CSS 🎨
-- **Desenvolvimento:** APIs 🔗, Automação ⚙️, Desenvolvimento de Software 💻
-- **Inteligência Artificial:** LLM (Large Language Models) 🧠
+<p align="left">
+  ❤️ Tenho um grande interesse em desenvolvimento web, análise de dados e, principalmente, em aplicações que gerem impacto social. 🌍
+</p>
 
-## O que me motiva? ✨
+<p align="left">
+  💌 Como me encontrar: ⤵️
+</p>
 
-Tenho um grande interesse em desenvolvimento web, análise de dados e, principalmente, em aplicações que gerem impacto social. 
-🌍 Acredito que a tecnologia tem o poder de mudar o mundo e busco sempre contribuir para isso com meus projetos. ❤️
+<p align="left">
+  <a href="mailto:SEU_EMAIL@gmail.com" alt="Email" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+</p>  
 
-## Meu GitHub 💡
+#
 
-Utilizo meu GitHub como um espaço para compartilhar meus aprendizados, documentar meus desafios e mostrar minha evolução como desenvolvedora. 
-📈 Aqui você encontrará projetos que refletem minha paixão por inovação e meu compromisso com a excelência. ⭐
+<div align="center">
 
-😉🤝
+### “Se você passa muito tempo pensando em algo, nunca vai conseguir fazer.” – Bruce Lee
 
-
+</div>
 
