@@ -7,7 +7,7 @@
 <p align="left"> 
   👋 Sou uma estudante de <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong>. <br><br>
   🎓 Sou uma aprendiz apaixonada que está sempre disposta a aprender e trabalhar com diversas tecnologias. <br><br>
-  💡 Adoro explorar novas tecnologias e usá-las para resolver problemas do dia a dia. ✨
+  ✨ Adoro explorar novas tecnologias e usá-las para resolver problemas do dia a dia. 
 </p>
 
 <p align="left">
