@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="http://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=B309FF&width=435&lines=print(%22Oi!%2C+eu%20sou%20J%C3%BAlia%22)" alt="Typing SVG" />
+  <img src="http://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=B309FF&width=435&lines=print(%22Hello,%2C+eu%20sou%20J%C3%BAlia%22)" alt="Typing SVG" />
 </p>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
