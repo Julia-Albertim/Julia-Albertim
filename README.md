@@ -5,9 +5,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  👋 Sou uma estudante de <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong>. 
-  🎓 Sou uma aprendiz apaixonada que está sempre disposta a aprender e trabalhar com diversas tecnologias. 
-  💡<br> Adoro explorar novas tecnologias e usá-las para resolver problemas do dia a dia. ✨
+  👋 Sou uma estudante de <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong>. <br>
+  🎓 Sou uma aprendiz apaixonada que está sempre disposta a aprender e trabalhar com diversas tecnologias. <br>
+  💡 Adoro explorar novas tecnologias e usá-las para resolver problemas do dia a dia. ✨
 </p>
 
 <p align="left">
